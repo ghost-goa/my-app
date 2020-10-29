@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!,changes for version2.0 by ghost.!" );
+        System.out.println( "Hello World!,changes for version3.0 by ghost.!" );
     }
 }
